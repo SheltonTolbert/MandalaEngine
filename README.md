@@ -4,7 +4,7 @@ All rendering and shading is done in the Mandala Engine.
 
 Current Features: 
 
-3D wireframe rendering of pre-defined primitives: 
+3D wireframe rendering of pre-defined primitives:\n
     Cube
     Cone*
     Tarus*
