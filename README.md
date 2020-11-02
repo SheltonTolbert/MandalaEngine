@@ -2,7 +2,7 @@ The Mandala Engine (formerly known as Plucky3D), is a 3D command line visualizat
 The olcConsole Engine is simply used to use the command line as a graphical display. 
 All rendering and shading is done in the Mandala Engine. 
 
-Current Features: 
+Features Roadmap: 
 
 3D wireframe rendering of pre-defined primitives:
 
