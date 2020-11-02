@@ -1,0 +1,5 @@
+﻿  pluckyEngine3D.cpp
+c:\users\shelt\documents\visual studio 2017\projects\pluckyengine3d\pluckyengine3d\pluckyengine3d.cpp(176): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\shelt\documents\visual studio 2017\projects\pluckyengine3d\pluckyengine3d\pluckyengine3d.cpp(175): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\shelt\documents\visual studio 2017\projects\pluckyengine3d\pluckyengine3d\pluckyengine3d.cpp(174): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  pluckyEngine3D.vcxproj -> C:\Users\shelt\Documents\Visual Studio 2017\Projects\pluckyEngine3D\Debug\pluckyEngine3D.exe
