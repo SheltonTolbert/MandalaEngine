@@ -7,9 +7,9 @@ Features Roadmap:
 3D wireframe rendering of pre-defined primitives:
 
     Cube
-    Cone*
-    Tarus*
-    Cylinder*
+    Cone
+    Torus
+    Cylinder
     
     
 Object Transformations: 
@@ -17,7 +17,7 @@ Object Transformations:
     Translation 
     Rotation   
     Uniform Scaling
-    Non-Uniform Scaling (linear and bi-linear*
+    Non-Uniform Scaling (linear and bi-linear)*
   
 Viewing Transormations: 
 
@@ -28,9 +28,10 @@ Viewing Transormations:
 Rendering Options:
 
     Wireframe
-    Ambient Lit (MatCap)*
+    Directional lights -- Need to add cone and intensity* 
+    Ambient light*
     Illuminated (lightmap)*
-    Illuminated (global illumination)
+    Illuminated (global illumination)*
   
  
 Shadows*: 
